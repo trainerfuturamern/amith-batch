@@ -1,1 +1,2 @@
-email verication
+email verication 
+Email login
